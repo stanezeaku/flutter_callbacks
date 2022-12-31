@@ -8,6 +8,10 @@ There are two possible patterns to achieve this:
 
 Before we dive into how to implement the two patterns lets emphasize on the possible use case. 
 callbacks can be used when there is data in a child widget that needs to be sent to the partent for a state change when an event is triggered in the child widget. Example: Let's assume we have a UI that displays and updates names on the screen based on the list of contacts. When a user clicks a contact from the list the name of the contact updates on the display screen. 
+
+### Preview
+
+![Preview](/introd.gif)
 callback use case
 
 ---
