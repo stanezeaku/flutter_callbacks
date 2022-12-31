@@ -12,6 +12,7 @@ callbacks can be used when there is data in a child widget that needs to be sent
 ### Preview
 
 ![Preview](/introd.gif)
+
 callback use case
 
 ---
